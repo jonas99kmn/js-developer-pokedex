@@ -1,4 +1,4 @@
 # Trilha JS Developer - Pokedex
 
-teste de odificação jonas
+teste de Modificação jonas
 
